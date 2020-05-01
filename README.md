@@ -6,7 +6,9 @@ simple IG downloader
 
 
 Photo | OK
+
 Video | OK
+
 IGTV  | OK
 
 
